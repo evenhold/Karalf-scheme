@@ -39,7 +39,7 @@ Note:
 Credit
 ------------------------------------------------------------------------
 
-This theme is based  [cyanide-theme](https://github.com/lefoy/cyanide-theme)
+This theme is based on [cyanide-theme](https://github.com/lefoy/cyanide-theme)
 
 You like this theme? I'd be glad to hear! Contact me on [Facebook](https://www.facebook.com/evenhold).
 
