@@ -22,9 +22,15 @@ Clone the theme inside your packages folder. Be sure that the name of the folder
     cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/
     git clone github.com/evenhold/Karalf-scheme.git 'Karalf-scheme'
 
+Windows:
+   
+         cd ~/Users/USUARIO/AppData/Roaming/Sublime Text 3/Packages/Karalf-scheme
+         git clone github.com/evenhold/Karalf-scheme.git 'Karalf-scheme'
+      
 
+Note:
 
-
+     Show hidden files
 
 Credit
 ------------------------------------------------------------------------
