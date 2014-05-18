@@ -6,8 +6,8 @@ Karalf-scheme
 A minimal dark theme for Sublime Text 3.
 
 ![Sublime javascript](https://lh3.googleusercontent.com/IxpwgdOYQsmvYFjT2dfyMQsBYElBV9eMjoKm6m_mh7WrUFMgW5FCuQDzVmTUadfg6TSRVy7qPl3Fsx6sVF-z3CsznJx6aRjcyVZT3I4dyyuV7bgmcpbNxCNOR1siOAg4NQ)
-![Sublime html](https://lh3.googleusercontent.com/pbEEnTtAYZgXYRjPv8-Jp418aeaA-ghfmmBeeR4llVsnI648rAWzubGYuJpTkh7PqyXigrodZNrWZzmq5Oq7IF_prHPA48wwA5oBYgmB0RY26hzuu2y4tISoFduhObh7zw)
-![Sublime java](https://lh3.googleusercontent.com/g_JN2Z-mZ6SYlcwBcnAj4E23ExVJ3TcpttCQGKXIwZuwy6RJRekazqVBrriWqADGtQrcUqYFNg0)
+![Sublime html](https://lh5.googleusercontent.com/-99jSimayMFA/U3gnPvCtZkI/AAAAAAAAAUM/GoSWlzlX7ZY/w1063-h662-no/sublime-javascript.JPG)
+![Sublime java](https://lh3.googleusercontent.com/-1Q5P7m9xepI/U3gnOYNbIyI/AAAAAAAAAUE/XTUcg3699Qs/w1062-h662-no/sublime-java.JPG)
 
 Installation
 ------------------------------------------------------------------------
