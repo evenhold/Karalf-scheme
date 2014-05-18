@@ -21,7 +21,7 @@ Install the theme and update your `Settings - User` file.
 
 ### Manual
 
-Clone the theme inside your packages folder. Be sure that the name of the folder is `Theme - Cyanide`.
+Clone the theme inside your packages folder. Be sure that the name of the folder is `Karalf-scheme`.
 
     cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/
     git clone github.com/evenhold/Karalf-scheme.git 'Karalf-scheme'
