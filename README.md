@@ -14,7 +14,7 @@ Installation
 
 ### Manual
 
-copy files to the "Packages" folder
+  Copy files to the "Packages" folder
 
         - Preferences > Browswe Packages.
 
