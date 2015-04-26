@@ -12,29 +12,13 @@ A minimal dark theme for Sublime Text 3.
 Installation
 ------------------------------------------------------------------------
 
-###Package Control
-
-Install the theme and update your `Settings - User` file.
-
-    "color_scheme": "Packages/Karalf-scheme/Karalf-theme.tmTheme",
-    "theme": "Karalf-theme.tmTheme"
-
 ### Manual
 
-Clone the theme inside your packages folder. Be sure that the name of the folder is `Karalf-scheme`.
+copy files to the "Packages" folder
 
-    cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/
-    git clone github.com/evenhold/Karalf-scheme.git 'Karalf-scheme'
+        - Preferences > Browswe Packages.
 
-Windows:
-   
-         cd ~/Users/USUARIO/AppData/Roaming/Sublime Text 3/Packages/Karalf-scheme
-         git clone github.com/evenhold/Karalf-scheme.git 'Karalf-scheme'
-      
 
-Note:
-
-     Show hidden files
 
 Credit
 ------------------------------------------------------------------------
